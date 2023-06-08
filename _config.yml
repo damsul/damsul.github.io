@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://Damsul.github.io"
+url: "https://damsul.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Damsul                                    # site's title
