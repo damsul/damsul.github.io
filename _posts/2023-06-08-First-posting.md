@@ -6,3 +6,4 @@ tags: [First Post]
 ---
 
 첫 게시물 작성!
+{% include aligner.html images="pexels/computer.jpeg" column=1 %}
